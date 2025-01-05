@@ -15,6 +15,16 @@
       "alt": "Dos cerebros intercambiando información para ser más empáticos entre ellos",
   "texto": "Colección de ejemplos sobre elementos web pero observados desde la perspectiva de personas con discapacidad.",
   "url": "https://afrikiudl.github.io/arteempatizar/"
-  }
+  },
+
+{
+      "id": 2,
+      "autor": "Christian Radu Dragan i Lidia Alcalde Manonelles",
+      "titulo": "Perspectiva Digital",
+      "srcimg": "https://raw.githubusercontent.com/Vaperinho/perspectivadigital/refs/heads/main/img/srcimg.png",
+      "alt": "Home page de la pagina perspectiva digital, donde se indican las diferentes secciones",
+  "texto": "un sitio web diseñado para sensibilizar y educar sobre las barreras de accesibilidad que enfrentan las personas con discapacidades al navegar por internet.",
+  "url": "https://vaperinho.github.io/perspectivadigital/"
+  },
 
 ]
